@@ -1,51 +1,54 @@
--👨‍💻 Samuel Barbosa
+<h1 align="center">Hi 👋, I'm Samuel Barbosa</h1>
+<h3 align="center">Computer Science Student | Future Software Engineer</h3>
 
-Estudante de Tecnologia e Programação, apaixonado por desenvolvimento web e aprendizado constante. Atualmente estudo React, Java, JavaScript, desenvolvimento Front-End, enquanto construo projetos práticos para evoluir minhas habilidades.
+---
 
-🚀 Sobre mim
+ 🚀 About Me
 
-🎓 Faculdade: AEDB – Associação Educacional Dom Bosco
+🎓 Computer Science student at **AEDB**  
+🔧 Technical degree in **Industrial Automation - SENAI**  
+💻 Currently studying **React and Front-End Development**  
+🌎 English: Intermediate  
 
-🔧 Formação Técnica: Automação Industrial – SENAI
+I am passionate about technology and software development.  
+Currently focused on improving my skills in **JavaScript, React and modern web development**.
 
-📍 Localização: Resende - RJ, Brasil
+---
 
-🌎 Inglês: Intermediário
+ 🛠️ Technologies I'm Learning
 
-💻 Foco atual: Desenvolvimento Web (Front-End)
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & GitHub
 
-Estou em busca da minha primeira oportunidade de estágio na área de tecnologia, onde eu possa aprender, colaborar com projetos reais e evoluir como desenvolvedor.
+---
 
-🛠️ Tecnologias que estou estudando
+📚 Current Goals
 
-HTML
+- Improve React development
+- Build real-world projects
+- Contribute to open source
+- Get my first internship in tech
 
-CSS
+---
 
-JavaScript
+📂 Future Projects
 
-React
+I will soon add projects such as:
 
-Git e GitHub
+- Barber Shop Scheduling System
+- Web applications with React
+- Front-end interfaces
+- Automation related projects
 
-📚 Atualmente estudando
+---
+ 📫 Contact
 
-React.js
+📧 Email: **osamuelbarbosasil@gmail.com**  
+📱 Phone: **+55 24 99841-0840**
 
-Desenvolvimento Front-End
+---
 
-Boas práticas de programação
-
-Estrutura de projetos web
-
-💡 Objetivo
-
-Meu objetivo é me tornar um desenvolvedor de software profissional, trabalhando com tecnologias modernas e participando de projetos que impactem pessoas de forma positiva.
-
-📂 Projetos
-
-Em breve estarei adicionando meus projetos aqui, incluindo:
-
-Aplicações web em React
-
-Interfaces modernas
+⭐ Always learning and building new things.
