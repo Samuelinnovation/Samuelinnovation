@@ -5,7 +5,7 @@
 
  🚀 About Me
 
-🎓 Computer Science student at **AEDB**  
+🎓 Enginner software student at **AEDB**  
 🔧 Technical degree in **Industrial Automation - SENAI**  
 💻 Currently studying **React and Front-End Development**  
 🌎 English: Intermediate  
