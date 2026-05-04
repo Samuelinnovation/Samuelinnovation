@@ -22,6 +22,8 @@ Currently focused on improving my skills in **JavaScript, React and modern web d
 - JavaScript
 - React
 - Git & GitHub
+- Python
+- Java
 
 ---
 
