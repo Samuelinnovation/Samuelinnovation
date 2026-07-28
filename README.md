@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://portfolio-samuel-barbosa.vercel.app">🌐 Portfólio</a> •
-  <a href="https://www.linkedin.com/in/samuel-barbosa-1b56b03b2/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/samuel-barbosa-1b56b03b2/">LinkedIn</a> 
   
 </p>
 
