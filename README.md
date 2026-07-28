@@ -1,56 +1,92 @@
-<h1 align="center">Hi 👋, I'm Samuel Barbosa</h1>
-<h3 align="center">Computer Science Student | Future Software Engineer</h3>
+<h1 align="center">Olá! Eu sou Samuel Barbosa 👋</h1>
+
+<p align="center">
+  <strong>Estudante de Engenharia de Software • Desenvolvedor Full Stack</strong>
+</p>
+
+<p align="center">
+  Desenvolvendo aplicações completas com foco em performance, experiência do usuário e soluções para negócios reais.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-samuel-barbosa.vercel.app">🌐 Portfólio</a> •
+  <a href="https://www.linkedin.com/in/samuel-barbosa-1b56b03b2/">LinkedIn</a> •
+  <a href="mailto:SEU_EMAIL">E-mail</a>
+</p>
 
 ---
 
- 🚀 About Me
+## 🚀 Sobre mim
 
-🎓 Enginner software student at **AEDB**  
-🔧 Technical degree in **Industrial Automation - SENAI**  
-💻 Currently studying **React and Front-End Development**  
-🌎 English: Intermediate  
-
-I am passionate about technology and software development.  
-Currently focused on improving my skills in **JavaScript, React and modern web development**.
+- 🎓 Estudante de Engenharia de Software
+- 💻 Desenvolvedor Full Stack
+- 🌱 Estudando constantemente Node.js, React, Next.js e arquitetura de software
+- 🤖 Criando soluções que unem desenvolvimento web, backend e inteligência artificial
+- 📍 Resende - RJ, Brasil
 
 ---
 
- 🛠️ Technologies I'm Learning
+## 🛠 Tecnologias
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Git & GitHub
-- Python
-- Java
+### Front-end
 
----
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-📚 Current Goals
+### Back-end
 
-- Improve React development
-- Build real-world projects
-- Contribute to open source
-- Get my first internship in tech
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
----
+### Banco de Dados
 
-📂 Future Projects
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-I will soon add projects such as:
+### Ferramentas
 
-- Barber Shop Scheduling System
-- Web applications with React
-- Front-end interfaces
-- Automation related projects
-
----
- 📫 Contact
-
-📧 Email: **osamuelbarbosasil@gmail.com**  
-📱 Phone: **+55 24 99841-0840**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
-⭐ Always learning and building new things.
+## ⭐ Projetos em Destaque
+
+### 🔐 License System
+Sistema de licenciamento de software com painel administrativo, validação remota de licenças e backend em FastAPI.
+
+### 🥖 Sistema para Padaria
+Sistema desktop para gerenciamento de caixa, vendas e relatórios.
+
+### 🥬 Sistema para Hortifruti
+Sistema desktop desenvolvido para operações de caixa e atendimento.
+
+### 🌐 Portfólio com IA
+Portfólio desenvolvido em Next.js com assistente inteligente utilizando Groq API.
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samuelinnovation&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelinnovation&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- 🌐 Portfólio: https://portfolio-samuel-barbosa.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/samuel-barbosa-1b56b03b2/
+- 📧 E-mail: SEU_EMAIL
+
+---
+
+⭐ Obrigado por visitar meu perfil!
