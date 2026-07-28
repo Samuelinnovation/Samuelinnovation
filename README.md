@@ -85,7 +85,6 @@ Portfólio desenvolvido em Next.js com assistente inteligente utilizando Groq AP
 
 - 🌐 Portfólio: https://portfolio-samuel-barbosa.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/samuel-barbosa-1b56b03b2/
-- 📧 E-mail: SEU_EMAIL
 
 ---
 
